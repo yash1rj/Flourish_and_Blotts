@@ -1,0 +1,9 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+	/* Center and scale the image nicely */
+	background-size: cover;
+}
